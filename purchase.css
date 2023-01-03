@@ -1,0 +1,35 @@
+.purchase {
+    margin-top: 80px;
+}
+.purchase-inside {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.purchase-text-box {
+    width: 400px;
+}
+.purchase-title {
+    font-size: 45px;
+    margin-bottom: 60px;
+    text-transform: uppercase;
+}
+.purchase-text {
+    border-left: 3px solid #999;
+    color: #999;
+    padding: 5px 30px;
+}
+.purchase-btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background-color: #EA625C;
+    margin-top: 40px;
+    padding: 14px 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 20px;
+}
+.purchase-btn:hover {
+    background-color: #d53830;
+}
